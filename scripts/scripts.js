@@ -26,10 +26,10 @@ languageEn.forEach((element)=>{
 
 liWithSubList.forEach((element) =>{
     element.addEventListener('mouseenter', ()=>{
-        menuSubListArrow.style.background = "url(https://github.com/Tooking/first-example/blob/ae77764366ed43c926f50c82929d59ba19f46f06/vectors_img/nav/arrow-for-menu-hover.svg) no-repeat center";
+        menuSubListArrow.style.background = "url(vectors_img/nav/arrow-for-menu-hover.svg) no-repeat center";
     })
     element.addEventListener('mouseleave', ()=>{
-        menuSubListArrow.style.background = "url(https://github.com/Tooking/first-example/blob/ae77764366ed43c926f50c82929d59ba19f46f06/vectors_img/nav/arrow-for-menu.svg) no-repeat center";
+        menuSubListArrow.style.background = "url(vectors_img/nav/arrow-for-menu.svg) no-repeat center";
     })
 })
 
@@ -60,11 +60,11 @@ linksImgSection6.forEach((element) =>{
 })
 
 function changeImgLinkHoverSection6 (event){
-    event.currentTarget.setAttribute('src', 'https://github.com/Tooking/first-example/blob/ae77764366ed43c926f50c82929d59ba19f46f06/vectors_img/section_6/arrow-hover.svg')
+    event.currentTarget.setAttribute('src', 'vectors_img/section_6/arrow-hover.svg')
 }
 
 function changeImgLinkSection6 (event){
-    event.currentTarget.setAttribute('src', 'https://github.com/Tooking/first-example/blob/ae77764366ed43c926f50c82929d59ba19f46f06/vectors_img/section_6/arrow.svg')
+    event.currentTarget.setAttribute('src', 'vectors_img/section_6/arrow.svg')
 }
 
 //slider section_6
