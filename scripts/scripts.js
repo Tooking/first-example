@@ -26,10 +26,10 @@ languageEn.forEach((element)=>{
 
 liWithSubList.forEach((element) =>{
     element.addEventListener('mouseenter', ()=>{
-        menuSubListArrow.style.background = "url(vectors_img/nav/arrow-for-menu-hover.svg) no-repeat center";
+        menuSubListArrow.style.background = "url(../vectors_img/nav/arrow-for-menu-hover.svg) no-repeat center";
     })
     element.addEventListener('mouseleave', ()=>{
-        menuSubListArrow.style.background = "url(vectors_img/nav/arrow-for-menu.svg) no-repeat center";
+        menuSubListArrow.style.background = "url(../vectors_img/nav/arrow-for-menu.svg) no-repeat center";
     })
 })
 
