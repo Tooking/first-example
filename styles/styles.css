@@ -35,7 +35,7 @@ body {
 
 .header_logo {
     position: absolute;
-    background-image: url(../vectors_img/nav/logo-circle.svg);
+    background-image: url(https://github.com/Tooking/first-example/blob/ae77764366ed43c926f50c82929d59ba19f46f06/vectors_img/nav/logo-circle.svg);
     background-position: center;
     background-repeat: no-repeat;
     width: 45.78px;
@@ -112,7 +112,7 @@ body {
     color: #A5A5A5;
 }
 
-.language-choosen{
+.language-choosen {
     color: #1E1E1E;
 }
 
@@ -144,7 +144,7 @@ body {
 .menu_list>li .menu_sub-list-arrow {
     transition: all 0.3s;
     display: inline-block;
-    background: url(../vectors_img/nav/arrow-for-menu.svg) no-repeat center;
+    background: url(https://github.com/Tooking/first-example/blob/ae77764366ed43c926f50c82929d59ba19f46f06/vectors_img/nav/arrow-for-menu.svg) no-repeat center;
     width: 10px;
     height: 10px;
 }
@@ -155,7 +155,7 @@ body {
     margin-top: 80px;
     width: 100%;
     height: 822px;
-    background: url(../vectors_img/home-page/background.svg) no-repeat center;
+    background: url(https://github.com/Tooking/first-example/blob/ae77764366ed43c926f50c82929d59ba19f46f06/vectors_img/home-page/background.svg) no-repeat center;
 }
 
 .content_home-devices {
@@ -271,7 +271,7 @@ body {
     padding-top: 90px;
     width: 100%;
     height: 665px;
-    background: #F9F7FA url(../vectors_img/section_1/background.svg) no-repeat right 1% top 5%;
+    background: #F9F7FA url(https://github.com/Tooking/first-example/blob/ae77764366ed43c926f50c82929d59ba19f46f06/vectors_img/section_1/background.svg) no-repeat right 1% top 5%;
 
     font-family: 'Montserrat Alternates';
     font-style: normal;
@@ -717,7 +717,7 @@ body {
     font-style: normal;
     font-weight: 600;
 
-    background: url(../vectors_img/section_5/Group\ 162.svg) no-repeat top 5% right 1%;
+    background: url(https://github.com/Tooking/first-example/blob/ae77764366ed43c926f50c82929d59ba19f46f06/vectors_img/section_5/Group\ 162.svg) no-repeat top 5% right 1%;
 }
 
 .section_5-header {
@@ -825,13 +825,13 @@ body {
     /* overflow: hidden; */
 }
 
-.section_6-slider-buttons{
+.section_6-slider-buttons {
     position: absolute;
     right: 120px;
     top: 159px;
 }
 
-.section_6-slider-buttons img{
+.section_6-slider-buttons img {
     margin-left: 30px;
     cursor: pointer;
 }
@@ -851,7 +851,7 @@ body {
     margin-top: 10px;
 }
 
-.section_6-content{
+.section_6-content {
     overflow: hidden;
 }
 
@@ -954,7 +954,7 @@ footer {
     width: 1440px;
 }
 
-.footer-button-up{
+.footer-button-up {
     position: absolute;
     top: -33px;
     right: 120px;
@@ -1020,19 +1020,19 @@ footer {
     padding: 17px 120px;
 }
 
-.footer-ru{
+.footer-ru {
     color: #A5A5A5;
 }
 
-.footer-en{
+.footer-en {
     color: #A5A5A5;
 }
 
-.footer-language-choosen{
+.footer-language-choosen {
     color: #fff;
 }
 
-.footer-container-buttons a{
+.footer-container-buttons a {
     text-decoration: none;
 }
 
@@ -1044,7 +1044,7 @@ footer {
     margin-right: 11px;
 }
 
-.footer-lists{
+.footer-lists {
     display: flex;
     gap: 87px;
 
@@ -1056,48 +1056,48 @@ footer {
     color: #fff;
 }
 
-.footer-navigation{
+.footer-navigation {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     gap: 12px;
 }
 
-.footer-navigation h2{
+.footer-navigation h2 {
     text-transform: uppercase;
     margin-bottom: 8px;
 }
 
-.footer-navigation a{
+.footer-navigation a {
     text-decoration: none;
     font-weight: 500;
     color: #fff;
 }
 
-.footer-accounts{
+.footer-accounts {
     display: flex;
     flex-direction: column;
     gap: 12px;
 }
 
-.footer-accounts h2{
+.footer-accounts h2 {
     text-transform: uppercase;
     margin-bottom: 8px;
 }
 
-.footer-accounts a{
+.footer-accounts a {
     text-decoration: none;
     font-weight: 500;
     color: #fff;
 }
 
-.footer-contacts{
+.footer-contacts {
     display: flex;
     flex-direction: column;
     gap: 12px;
 }
 
-.footer-contacts h2{
+.footer-contacts h2 {
     text-transform: uppercase;
     margin-bottom: 8px;
 }
@@ -1111,15 +1111,15 @@ footer {
     align-items: center;
 }
 
-.footer-contacts a > img{
+.footer-contacts a>img {
     margin-right: 7px;
 }
 
-.footer-list-logos{
+.footer-list-logos {
     margin-top: 3px;
 }
 
-.footer-list-logos img{
+.footer-list-logos img {
     margin-right: 10px;
 }
 
